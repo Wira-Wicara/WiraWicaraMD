@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292861095320",
+    "project_id": "wira-wicara",
+    "storage_bucket": "wira-wicara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292861095320:android:8df7d00b6228cdd6cecfed",
+        "android_client_info": {
+          "package_name": "com.example.wirawicara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292861095320-3g404aoolqluksgushhcjnoba8m8cpup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsqOMRIIqOWPWjfWWeQj5s2dy19LK_aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292861095320-3g404aoolqluksgushhcjnoba8m8cpup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

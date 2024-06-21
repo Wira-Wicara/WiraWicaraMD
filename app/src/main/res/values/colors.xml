@@ -5,8 +5,12 @@
     <color name="pink_500">#FFEB455F</color>
     <color name="pink_200">#FF8FAF</color>
     <color name="baby_blue">#DAF5FF</color>
-    <color name="blue_500">#FF2196F3</color>"
+    <color name="blue_500">#FF2196F3</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="gray">#FF9E9E9E</color>
+    <color name="active">#004581</color>
+    <color name="inactive">#8696BB</color>
+    <color name="transparent">#00000000</color>
 </resources>

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">WiraWicara</string>
-    <string name="login">Masuk</string>
+    <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="email">Email</string>
     <string name="register">Register</string>
@@ -9,4 +9,23 @@
     <string name="already_have_account">Already Have Account?\n</string>
     <string name="sign_out">Keluar\n</string>
     <string name="no_data">No Data\n</string>
+    <string name="app_logo">WiraWicara Logo\n</string>
+    <string name="appname">Wira Wicara\n</string>
+    <string name="nama_anak">Nama Anak</string>
+    <string name="data_anak">Data Anak</string>
+    <string name="usia_anak">Usia Anak</string>
+    <string name="deskripsi_anak_saat_ini">Deskripsi Anak Saat Ini</string>
+    <string name="submit">Submit</string>
+    <string name="menu_title_bottom_nav_home">Home</string>
+    <string name="menu_title_bottom_nav_profile">Profile</string>
+    <string name="level_1_desc">Kita mulai dengan belajar mengucap 1 kata yuk! Kamu akan diuji untuk mendengar, dan juga mengucapkan kembali kata-kata yang akan ditampilkan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="level_1_mengucap">Level 1 : Mengucap</string>
+    <string name="level_2_merangkai">Level 2 : Merangkai</string>
+    <string name="level_2_desc">Lorem Ipseum Dolor Amet</string>
+    <string name="level_3_menyusun">Level 3 : Menyusun</string>
+    <string name="level_3_desc">Lorem Ipsum Dolor Amet</string>
+    <string name="toolbar_profile">Hi, Dear</string>
+    <string name="play_reference_audio">Play Reference Audio</string>
 </resources>

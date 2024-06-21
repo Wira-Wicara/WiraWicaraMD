@@ -13,6 +13,10 @@
         <!-- Customize your theme here. -->
         <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
     </style>
-
+    <style name="toolbar">
+        <item name="android:background">@color/white</item>
+        <item name="android:theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+    </style>
     <style name="Theme.WiraWicara" parent="Base.Theme.WiraWicara" />
 </resources>

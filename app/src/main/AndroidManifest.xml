@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,10 +16,16 @@
         android:theme="@style/Theme.WiraWicara"
         tools:targetApi="31">
         <activity
-            android:name=".ui.main.RegisterActivity"
+            android:name=".ui.view.TrainActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.main.LoginActivity"
+            android:name=".ui.view.Form"
+            android:exported="false" />
+        <activity
+            android:name=".ui.view.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.view.LoginActivity"
             android:exported="false" />
         <activity
             android:name=".ui.main.MainActivity"
